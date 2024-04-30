@@ -1,4 +1,4 @@
-# Call of Duty Warzone Ranked Play Map Rotation
+# Call of Duty Warzone "Ranked Play" Map Rotation
 This is just a simple code to replicate the way the map in Call of Duty Warzone rotates with time.
 
 If you're not familiar with Warzone ranked play, here's what happens:
